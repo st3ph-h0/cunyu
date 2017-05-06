@@ -37,13 +37,13 @@ a:hover {
     text-decoration-style: dashed;
 }
 
-#slidingDiv, #slidingDiv_2{
-    height:auto;
+#slidingDiv, #slidingDiv_2, #slidingDiv_3 {
+    height: auto;
     width: 750px;
     background-color: #f4fff8;
     padding:20px;
     margin-top:10px;
-    display:none;
+    display: none;
     font-family: Roboto;
 }
 
